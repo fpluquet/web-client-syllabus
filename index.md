@@ -4,7 +4,7 @@ Bienvenue dans ce guide complet pour apprendre la programmation web (côté clie
 
 ## 🌟 Commencer par les fondamentaux
 
-**Nouveau dans la programmation web ?** Commencez par lire notre [Introduction générale à la programmation web](/introduction-generale) qui vous expliquera les concepts fondamentaux, la philosophie du développement web moderne et l'écosystème dans lequel vous allez évoluer.
+**Nouveau dans la programmation web ?** Commencez par lire notre [Introduction générale à la programmation web](/introduction-generale) qui vous expliquera les concepts fondamentaux, la philosophie du développement web moderne et l'écosystème dans lequel vous allez évoluer. 
 
 Cette introduction vous aidera à comprendre :
 - Pourquoi HTML, CSS et JavaScript forment un trio indissociable
