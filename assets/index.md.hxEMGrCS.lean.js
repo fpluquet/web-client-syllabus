@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as a,ag as i}from"./chunks/framework.B3ODPNcg.js";const p=JSON.parse('{"title":"UE1208 - Web 1","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function n(s,e,l,u,c,d){return t(),a("div",null,[...e[0]||(e[0]=[i("",24)])])}const g=r(o,[["render",n]]);export{p as __pageData,g as default};
