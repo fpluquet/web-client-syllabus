@@ -6,8 +6,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress docs:build docs",
-    "preview": "vitepress docs:preview docs"
+    "docs:build": "vitepress docs:build docs",
+    "docs:preview": "vitepress docs:preview docs"
   },
   "keywords": ["html", "css", "javascript", "cours", "web"],
   "author": "HELHa",
