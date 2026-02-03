@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'UE1208 - Web1',
+  base: '/web-client-syllabus/',
   description: 'Guide complet pour apprendre la programmation web : HTML, CSS et JavaScript',
   themeConfig: {
     nav: [
