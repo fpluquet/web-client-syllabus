@@ -24,7 +24,7 @@ jobs:
         run: npm install # S'assurera de créer le lock si absent (lent mais débloque)
 
       - name: Build site
-        run: npm run docs:build
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
