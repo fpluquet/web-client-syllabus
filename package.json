@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "vitepress build docs",
     "preview": "vitepress preview"
   },
   "keywords": ["html", "css", "javascript", "cours", "web"],
