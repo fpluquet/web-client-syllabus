@@ -1,6 +1,6 @@
 # UE1208 - Web 1
 
-Bienvenue dans ce guide complet pour apprendre la programmation web (côté client) ! Ce cours vous accompagnera progressivement depuis les bases du HTML jusqu'aux concepts avancés de JavaScript.
+Bienvenue dans ce guide complet pour apprendre la programmation web (côté client) ! Ce cours vous accompagnera progressivement depuis les bases du HTML jusqu'aux concepts avancés de JavaScript. 
 
 ## 🌟 Commencer par les fondamentaux
 
