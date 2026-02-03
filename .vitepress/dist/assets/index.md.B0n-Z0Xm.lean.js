@@ -1,1 +1,0 @@
-import{_ as r,c as t,o as a,ag as o}from"./chunks/framework.BgId8OS5.js";const p=JSON.parse('{"title":"UE1208 - Web 1","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function n(s,e,l,u,c,d){return a(),t("div",null,e[0]||(e[0]=[o("",24)]))}const g=r(i,[["render",n]]);export{p as __pageData,g as default};
