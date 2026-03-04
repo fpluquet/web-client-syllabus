@@ -320,6 +320,10 @@ Flexbox (Flexible Box Layout) est un module CSS conçu pour faciliter la créati
 
 > Astuce : Flexbox est idéal pour les barres de navigation, les galeries, les cartes, les listes horizontales, les footers, etc.
 
+### Apprendre visuellement
+
+Le site https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ propose une introduction interactive à Flexbox, avec des exemples visuels et des exercices pratiques pour comprendre les différentes propriétés et leur impact sur la mise en page. N’hésitez pas à l’explorer pour vous familiariser avec les concepts de base avant de plonger dans les détails techniques.
+
 ### Le principe de base
 Pour activer Flexbox, il suffit d’appliquer `display: flex;` à un conteneur. Tous ses enfants directs deviennent alors des « éléments flex » et sont organisés selon l’axe principal.
 
