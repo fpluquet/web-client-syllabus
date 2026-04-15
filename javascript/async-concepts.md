@@ -93,6 +93,8 @@ console.log('Code synchrone 2');
 // Macro-task 2
 ```
 
+Il y a de chouettes animations pour comprendre tout cela sur le site suivant : https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943
+
 ### Pile d'Exécution et Files d'Attente
 
 La compréhension du modèle d'exécution JavaScript nécessite de saisir l'interaction entre plusieurs composants critiques :
